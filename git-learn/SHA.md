@@ -14,4 +14,5 @@
 
 [SecuredHashAlgorithms](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
 
-<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" width = "80" height = "80")
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
