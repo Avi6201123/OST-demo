@@ -11,3 +11,5 @@
 - Git Commands: You can also use Git commands to view the full SHA of a commit. For example, git log will show you the commit history with full SHAs, and git show <commit-SHA> will show you the details of a specific commit.
 
 ## The full SHA is useful for referencing specific commits when working with a Git repository, such as checking out a specific commit, reverting changes, or creating branches based on specific commits.
+
+[SecuredHashAlgorithms](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
